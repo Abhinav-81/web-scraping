@@ -71,8 +71,8 @@ If Amazon changes their website layout, you may need to adjust the selectors.
 
 Scrape responsibly and always respect Amazon’s Terms of Service.
 
-📜 License
+ License
 This project is open-source and free to use under the MIT License.
 
-Made with ❤ using Node.js
+Made with  using Node.js
 
