@@ -37,9 +37,9 @@ Copy
 Edit
 node your_filename.js
 Server runs at:
-👉 http://localhost:3000
+ http://localhost:3000
 
-📩 How to Use
+ How to Use
 Send a POST request to /scrape with a JSON body like:
 
 json
@@ -64,7 +64,7 @@ You’ll receive an Excel file download containing:
 Product Name	Price
 Awesome Headphones	$99
 Wireless Mouse	$25
-🧠 Notes
+Notes
 Puppeteer uses Chromium. Ensure you have the necessary system libraries installed if you run into installation issues.
 
 If Amazon changes their website layout, you may need to adjust the selectors.
