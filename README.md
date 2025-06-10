@@ -1,16 +1,16 @@
-🚀 Amazon Product Scraper
+ Amazon Product Scraper
 A fast and simple Node.js app that scrapes product names and prices from a list of Amazon URLs — and neatly packs them into an Excel (.xlsx) file!
 
-✨ Features
-🔥 Scrape product titles and prices automatically
+ Features
+ Scrape product titles and prices automatically
 
-📄 Export data directly into a downloadable Excel spreadsheet
+ Export data directly into a downloadable Excel spreadsheet
 
-⚡ Quick and easy setup with Express.js and Puppeteer
+ Quick and easy setup with Express.js and Puppeteer
 
-🛡️ Robust error handling for a smooth experience
+ Robust error handling for a smooth experience
 
-🛠️ Built With
+ Built With
 Express.js – Fast Node.js web framework
 
 Puppeteer – Headless Chrome browser automation
